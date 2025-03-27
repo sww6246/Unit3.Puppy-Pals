@@ -51,6 +51,7 @@
 .puppy:hover {
   transform:scale(1.1);
   transition-duration: 1s;
+  color: #FCA919
   
 }
 

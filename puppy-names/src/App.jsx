@@ -26,7 +26,7 @@ function App() {
             onClick={() => handleClick(puppy.id)} 
             key={puppy.id} class="puppy"
           >
-            {puppy.name}
+            Name: {puppy.name}
           </p>
         ))}
         </div>
